@@ -1,5 +1,5 @@
 # 💫 About Me:
-•🌱 I’m currently learning - Full Stack Developement.<br><br>•💬 Ask me about - Java, C.<br><br>•📫 How to reach me - vanshika9994verma@gmail.com<br><br>•⚡ Hobbies - A artist who loves to art.
+•🌱 I’m currently learning - Full Stack Developement.<br><br>•💬  Coding enthusiast who loves solving problems and building projects.<br><br>•⚡ I love painting, sketching, and reading in my free time. <br><br>•📫 How to reach me - vanshika9994verma@gmail.com
 
 
 ## 🌐 Socials:
