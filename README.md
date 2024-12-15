@@ -23,5 +23,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vanshika-verma14&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
