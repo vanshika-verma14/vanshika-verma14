@@ -1,5 +1,6 @@
 [113882-699653944.webm](https://github.com/user-attachments/assets/a647ac82-d4b7-4b3c-8e77-54cceed74d43)
-<h1 align="center">Hi 👋, I'm Vanshika</h1>
+<h1 align="center">Hi 👋, I'm Vanshika Verma</h1>
+<h3 align="center">Always Curious to learn More.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=vanshika-verma14&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
