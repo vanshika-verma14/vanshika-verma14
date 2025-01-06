@@ -5,7 +5,7 @@
 </a>
 
 # 💫 About Me:
-•🌱 I’m currently learning - Full Stack Developement.<br><br>•💬  Coding enthusiast who loves solving problems and building projects.<br><br>•⚡ I love painting, sketching, and reading in my free time. <br><br>•📫 How to reach me - vanshika9994verma@gmail.com
+•🌱 I’m currently learning - Full Stack Developement.<br><br>•💬  Coding enthusiast who loves solving problems and building projects.<br><br>•⚡ I love painting, sketching, and read in my free time. <br><br>•📫 How to reach me - vanshika9994verma@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vxnshika.___) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
